@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>079AE436-E859-4FB8-BC77-73D0317C6A0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>079AE436-E859-4FB8-BC77-73D0317C6A0E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>login project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>login</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project login with scheme login and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>572515845.95657694</real>
+			<key>timeStoppedRecording</key>
+			<real>572515847.26205504</real>
+			<key>title</key>
+			<string>Building project login with scheme login and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>079AE436-E859-4FB8-BC77-73D0317C6A0E</string>
+		</dict>
+		<key>F270A1D6-0EFC-48AD-8F2F-F3112A5290B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F270A1D6-0EFC-48AD-8F2F-F3112A5290B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>login project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>login</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project login with scheme login and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>572516062.77230096</real>
+			<key>timeStoppedRecording</key>
+			<real>572516064.972651</real>
+			<key>title</key>
+			<string>Building project login with scheme login and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F270A1D6-0EFC-48AD-8F2F-F3112A5290B3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
